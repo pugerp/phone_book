@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104776551919",
+    "project_id": "phonebook-2c6c8",
+    "storage_bucket": "phonebook-2c6c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104776551919:android:b255560c3a4fec18ef7a1a",
+        "android_client_info": {
+          "package_name": "id.pugerp.phone_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTQAVekkaWwrMYS9_y6HmjFQ_XBdta8b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
